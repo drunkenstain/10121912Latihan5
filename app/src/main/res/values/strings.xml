@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LayoutingDigiTeam</string>
+    <string name="nama">Vincensius Aditya Barus</string>
+    <string name="skill">IT</string>
+    <string name="kerja">Jam Kerja Bulan Ini</string>
+    <string name="jam_kerja">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="jam_kerja_anda">130.53 JAM</string>
+    <string name="batas_min_jamkerja">Batas Minimun Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="ijin">Ijin</string>
+    <string name="kehardiran">Kehadiran</string>
+    <string name="laporan_icon">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+</resources>
